@@ -1,6 +1,6 @@
 1. Pada saat inisialisasi tugas1 bernilai false dan tugas2 juga
 
-2. kemudian di cek kondisi pada fungsi thread1_step() jika tugas1 bernilai true lock1 diubah menjadi true dan status hold kemudian sebaliknya 
+2. kemudian di cek kondisi pada fungsi thread1_step() jika tugas1 bernilai true tugas1 diubah menjadi true dan status hold kemudian sebaliknya 
 
 3. thread2_step juga sama untuk mekanisme fungsi dengan thread1_step()
 
